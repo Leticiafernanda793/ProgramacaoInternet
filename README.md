@@ -1,6 +1,6 @@
 # 🏫 Sistema de Achados e Perdidos - IFRN
 
-Meu primeiro projeto adicionado ao GitHub, desenvolvido para o Instituto Federal do Rio Grande do Norte (IFRN). Este sistema permite o gerenciamento de objetos encontrados, facilitando a devolução aos seus donos
+Meu primeiro projeto adicionado ao GitHub, desenvolvido para o Instituto Federal do Rio Grande do Norte (IFRN). Este sistema permite o gerenciamento de objetos encontrados, facilitando a devolução aos seus donos.
 
 ## 🛠️ Detalhes das Tecnologias Utilizadas
 
